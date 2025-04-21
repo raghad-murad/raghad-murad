@@ -79,7 +79,7 @@
 <h2 align="center">⚡ Github Status</h2>
 <br>
 <div align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=raghad-murad&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=raghad-murad&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghad-murad&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
