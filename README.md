@@ -102,7 +102,6 @@
 
 <!--Connect with me-->
 <h2 align="center">🔗 Connect with me</h2>
-
 <p align="center">
   <a href="mailto:raghadmbuzia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
