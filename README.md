@@ -42,35 +42,28 @@
 <!-- About Me section with side image -->
 <h3 align="left">💫 About Me</h3>
 
-<table>
-  <tr>
-    <td width="60%">
+<div align="center">
+  <ul>
+    <li>🌱 I’m currently pursuing a degree in <b>Computer Engineering</b> at <b>Birzeit University</b></li>
+    <li>🤖 I focused on <b>Artificial Intelligence</b> through:
       <ul>
-        <li>🌱 I’m currently pursuing a degree in <b>Computer Engineering</b> at <b>Birzeit University</b></li>
-        <li>🤖 I focused on <b>Artificial Intelligence</b> through:
-          <ul>
-            <li>Machine Learning 🧠</li>
-            <li>Computer Vision 👁️</li>
-            <li>Natural Language Processing 🗣️</li>
-          </ul>
-        </li>
-        <li>📊 Took certified courses in:
-          <ul>
-            <li>AI & Data Analysis</li>
-            <li>Frontend Development (HTML/CSS/JS)</li>
-            <li>Currently enrolled in Backend & Flutter Development 🔧📱</li>
-          </ul>
-        </li>
-        <li>🔍 Interests: AI, Automation, UI/UX</li>
-        <li>🧠 Always learning, always curious!</li>
-        <li>✨ I like clean design, clean code, and a clean cup of coffee ☕</li>
+        <li>Machine Learning 🧠</li>
+        <li>Computer Vision 👁️</li>
+        <li>Natural Language Processing 🗣️</li>
       </ul>
-    </td>
-    <td width="40%">
-      <img src="using/coding_image.gif" width="100%" alt="coding gif">
-    </td>
-  </tr>
-</table>
+    </li>
+    <li>📊 Took certified courses in:
+      <ul>
+        <li>AI & Data Analysis</li>
+        <li>Frontend Development (HTML/CSS/JS)</li>
+        <li>Currently enrolled in Backend & Flutter Development 🔧📱</li>
+      </ul>
+    </li>
+    <li>🔍 Interests: AI, Automation, UI/UX</li>
+    <li>🧠 Always learning, always curious!</li>
+    <li>✨ I like clean design, clean code, and a clean cup of coffee ☕</li>
+  </ul>
+</div>
 
 
 ---
