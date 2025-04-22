@@ -42,7 +42,7 @@
 <!-- About Me section with side image -->
 <h3 align="left">💫 About Me</h3>
 
-<div align="center">
+<div align="left">
   <ul>
     <li>🌱 I’m currently pursuing a degree in <b>Computer Engineering</b> at <b>Birzeit University</b></li>
     <li>🤖 I focused on <b>Artificial Intelligence</b> through:
